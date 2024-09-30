@@ -60,3 +60,9 @@ Part 2: Glossary
     Pull: Fetching changes from the remote repository and merging them into your local branch.
     Remote: A version of your project that is hosted on a network.
     Repository: A storage location for your project files.
+
+    
+  References
+  Git documentation: https://git-scm.com/doc
+  GitHub documentation: https://docs.github.com/en
+  WebStorm documentation: https://www.jetbrains.com/help/webstorm/
